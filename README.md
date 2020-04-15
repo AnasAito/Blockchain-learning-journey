@@ -7,4 +7,5 @@ this is an opiniated guide made by a begginer who wants to learn about this new 
 - this ghide will be updated evry day with plans for next day 
 
 ## day 1 
-- Blockchain 101 : https://www.coindesk.com/learn/blockchain-101/what-is-blockchain-technology
+- [ Blockchain 101 ](https://www.coindesk.com/learn/blockchain-101/what-is-blockchain-technology)
+- [Blockchains versus Traditional Databases](https://towardsdatascience.com/blockchains-versus-traditional-databases-e496d8584dc)
