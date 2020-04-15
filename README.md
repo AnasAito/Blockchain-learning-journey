@@ -9,3 +9,8 @@ this is an opiniated guide made by a begginer who wants to learn about this new 
 ## day 1 
 - [ Blockchain 101 ](https://www.coindesk.com/learn/blockchain-101/what-is-blockchain-technology)
 - [Blockchains versus Traditional Databases](https://towardsdatascience.com/blockchains-versus-traditional-databases-e496d8584dc)
+- [What is Proof of Stake?](https://hackernoon.com/what-is-proof-of-stake-8e0433018256 )
+## day 2 : 
+> palaned ! 
+- smart contract ? 
+- transaction validation how it works ? 
