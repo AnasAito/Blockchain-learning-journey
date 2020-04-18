@@ -14,4 +14,4 @@ this is an opiniated guide made by a begginer who wants to learn about this new 
 - [What is a Smart Contract?](https://www.youtube.com/watch?v=w9WLo33KfCY&list=WL&index=128&t=0s)
 ## day 3 : 
 - [How Are Blockchain Transactions Validated?](https://www.mangoresearch.co/blockchain-consensus-vs-validation/)
-
+- [How are Blockchain transactions verified?](https://www.quora.com/How-are-Blockchain-transactions-verified)
