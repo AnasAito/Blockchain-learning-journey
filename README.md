@@ -12,4 +12,6 @@ this is an opiniated guide made by a begginer who wants to learn about this new 
 ## day 2 : 
 - [How does Ethereum work, anyway?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [What is a Smart Contract?](https://www.youtube.com/watch?v=w9WLo33KfCY&list=WL&index=128&t=0s)
+## day 3 : 
+- [How Are Blockchain Transactions Validated?](https://www.mangoresearch.co/blockchain-consensus-vs-validation/)
 
